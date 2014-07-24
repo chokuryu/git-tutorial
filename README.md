@@ -4,3 +4,4 @@ node.js向けのフロー制御系ライブラリです。
 
 - feature_A mst
 only add
+- fix_B
