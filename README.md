@@ -6,3 +6,4 @@ node.js向けのフロー制御系ライブラリです。
 only add
 - fix_B
 - hyperFeature_C
+- feature_D
